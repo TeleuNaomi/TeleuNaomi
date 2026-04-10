@@ -1,5 +1,5 @@
 Hey there! 
-I'm Naomi, an aspiring cybersecurity analyst L1 currently developing practical skills through hands-on lab projects and tryhackme rooms. 
+I'm an aspiring cybersecurity analyst L1 currently developing practical skills through hands-on lab projects and tryhackme rooms. 
 
 - <b>Certifications</b>
   - CompTIA Security+ (2026)
