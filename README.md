@@ -1,15 +1,15 @@
 Hey there! 
 I'm an aspiring cybersecurity analyst L1 currently developing practical skills through hands-on lab projects and tryhackme rooms. 
 
-- <b>Certifications</b>
+- <b>🎯Certifications</b>
   - CompTIA Security+ (2026)
-- <b>Skills</b>
+- <b>🧠Skills</b>
   - SIEM: Splunk, Elastik
   - Threat Intelligence: VirusTotal, AbuseIPDB, URLScan
   - Network Analysis: Wireshark, NetworkMiner
   - Frameworks: MITRE ATT&CK, Pyramid of Pain
  
-- <b>Labs to do for THIS portfolio</b>
+- <b>⌛Labs to do for THIS portfolio</b>
    - SOC-Home-Lab
    - Phishing-Analysis-Lab
    - Splunk-Investigation-Lab
@@ -17,6 +17,6 @@ I'm an aspiring cybersecurity analyst L1 currently developing practical skills t
    - Incident-Response-Playbooks
    - CTF-Writeups
   
-- <b> Find Me <b>
+- <b>💬 Find Me <b>
   - TryHackMe:
   - LinkedIn:
