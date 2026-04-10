@@ -1,16 +1,22 @@
-## Hi there 👋
+Hey there! 
+I'm Naomi, an aspiring cybersecurity analyst L1 currently developing practical skills through hands-on lab projects and tryhackme rooms. 
 
-<!--
-**TeleuNaomi/TeleuNaomi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- <b>Certifications</b>
+  - CompTIA Security+ (2026)
+- <b>Skills</b>
+  - SIEM: Splunk, Elastik
+  - Threat Intelligence: VirusTotal, AbuseIPDB, URLScan
+  - Network Analysis: Wireshark, NetworkMiner
+  - Frameworks: MITRE ATT&CK, Pyramid of Pain
+ 
+- <b>Labs to do for THIS portfolio</b>
+   - SOC-Home-Lab
+   - Phishing-Analysis-Lab
+   - Splunk-Investigation-Lab
+   - Network-Traffic-Analysis
+   - Incident-Response-Playbooks
+   - CTF-Writeups
+  
+- <b> Find Me <b>
+  - TryHackMe:
+  - LinkedIn:
