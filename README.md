@@ -1,5 +1,5 @@
 Hey there! 
-I'm a SOC L1 analyst currently developing practical skills through hands-on lab projects, TryHackMe rooms, BlueTeam Labs, and CyberDefenders. 
+I'm an aspiring SOC L1 analyst currently developing practical skills through hands-on lab projects, TryHackMe rooms, BlueTeam Labs, and CyberDefenders. 
 
 - <b>🎯Certifications</b>
   - CompTIA Security+ (2026)
