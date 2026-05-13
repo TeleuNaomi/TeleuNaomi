@@ -20,5 +20,5 @@ I'm an aspiring SOC L1 analyst currently developing practical skills through han
    - CTF-Writeups
   
 - <b>💬 Find Me <b>
-  - TryHackMe:
+  - TryHackMe: https://tryhackme.com/p/TeleNao
   - LinkedIn:
