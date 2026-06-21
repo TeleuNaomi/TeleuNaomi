@@ -3,6 +3,7 @@ I'm an aspiring IT specialist/ SOC L1 analyst currently developing practical ski
 
 - <b>🎯Certifications</b>
   - CompTIA Security+ (2026)
+  - TryHackMe SOC Level 1 Certificate of Completion
 - <b>🧠Skills</b>
   - SIEM: Splunk, Elastik
   - Threat Intelligence: VirusTotal, AbuseIPDB, URLScan
