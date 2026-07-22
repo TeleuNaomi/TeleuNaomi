@@ -20,6 +20,7 @@ I'm an aspiring IT specialist/ SOC L1 analyst currently developing practical ski
    - Network-Traffic-Analysis
    - Incident-Response-Playbooks
    - CTF-Writeups
+   - IT Support ServiceNow
   
 - <b>💬 Find Me <b>
   - TryHackMe: https://tryhackme.com/p/TeleNao
