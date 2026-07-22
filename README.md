@@ -10,6 +10,9 @@ I'm an aspiring IT specialist/ SOC L1 analyst currently developing practical ski
   - Threat Intelligence: VirusTotal, AbuseIPDB, URLScan
   - Network Analysis: Wireshark
   - Frameworks: MITRE ATT&CK, Pyramid of Pain
+  - Hardware & Software Troubleshooting
+  - Windows 10/11 Administration & Troubleshooting
+  - Network Configuration & Support 
  
 - <b>⌛ Labs ON THIS portfolio</b>
    - SOC-Home-Lab
