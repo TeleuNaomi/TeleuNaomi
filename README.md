@@ -3,14 +3,15 @@ I'm an aspiring IT specialist/ SOC L1 analyst currently developing practical ski
 
 - <b>🎯Certifications</b>
   - CompTIA Security+ (2026)
+  - CompTIA A+ (2026)
   - TryHackMe SOC Level 1 Certificate of Completion
 - <b>🧠Skills</b>
-  - SIEM: Splunk, Elastik
+  - SIEM: Splunk
   - Threat Intelligence: VirusTotal, AbuseIPDB, URLScan
-  - Network Analysis: Wireshark, NetworkMiner
+  - Network Analysis: Wireshark
   - Frameworks: MITRE ATT&CK, Pyramid of Pain
  
-- <b>⌛Labs to do for THIS portfolio</b>
+- <b>⌛ Labs ON THIS portfolio</b>
    - SOC-Home-Lab
    - Active Directory
    - AtomicRedTeam
