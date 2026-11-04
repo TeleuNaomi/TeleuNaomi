@@ -12,7 +12,8 @@ I'm an aspiring IT specialist/ SOC L1 analyst currently developing practical ski
   - Frameworks: MITRE ATT&CK, Pyramid of Pain
   - Hardware & Software Troubleshooting
   - Windows 10/11 Administration & Troubleshooting
-  - Network Configuration & Support 
+  - Network Configuration & Support
+  - Microsoft 365 & Endpoint Management 
  
 - <b>⌛ Labs ON THIS portfolio</b>
    - SOC-Home-Lab
