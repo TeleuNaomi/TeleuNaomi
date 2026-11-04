@@ -17,6 +17,7 @@ I'm an aspiring IT specialist/ SOC L1 analyst currently developing practical ski
 - <b>⌛ Labs ON THIS portfolio</b>
    - SOC-Home-Lab
    - Active Directory
+   - Modern Workplace Onboarding: Microsoft Entra-ID, Intune, M365
    - AtomicRedTeam
    - Phishing-Analysis-Lab
    - Splunk-Investigation-Lab
